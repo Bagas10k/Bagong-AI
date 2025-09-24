@@ -1,0 +1,5 @@
+{
+  "name": "Bagong AI",
+  "description": "An interactive web application that allows users to 'train' a Gemini-powered AI by providing a system instruction or persona. The AI will then respond based on this training context in a real-time chat interface.",
+  "requestFramePermissions": []
+}
